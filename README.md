@@ -1,2 +1,2 @@
-# django-boilerplate
-basic setup for any django project
+# Group Buy web app prototype based on Django
+basic setup
